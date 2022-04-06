@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkLeer_roblox=self.webpackChunkLeer_roblox||[]).push([[276],{9455:function(e){e.exports=JSON.parse('{"plugin":{"name":"docusaurus-plugin-content-docs","id":"tycoon"}}')}}]);
