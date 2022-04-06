@@ -13,11 +13,6 @@ const GuidesList = [
     description: 'Leer hoe je een tycoon game maakt in roblox',
     link: '/projecten/tycoon'
   },
-  {
-    title: 'spleef',
-    description: 'Leer hoe je een spleef game maakt in roblox',
-    link: 'spleef'
-  },
 ];
 
 
