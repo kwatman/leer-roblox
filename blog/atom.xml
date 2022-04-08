@@ -2,17 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/leer-roblox/blog</id>
     <title>Leer roblox Blog</title>
-    <updated>2022-06-04T00:00:00.000Z</updated>
+    <updated>2022-04-08T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/leer-roblox/blog"/>
     <subtitle>Leer roblox Blog</subtitle>
     <icon>https://github.com/leer-roblox/img/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[site-launch]]></title>
-        <id>/2022/06/04/site-launch</id>
-        <link href="https://github.com/leer-roblox/blog/2022/06/04/site-launch"/>
-        <updated>2022-06-04T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[the site has luanched]]></summary>
-        <content type="html"><![CDATA[<p>the site has luanched</p>]]></content>
+        <title type="html"><![CDATA[leer roblox staat online]]></title>
+        <id>/2022/04/08/start-leer-roblox</id>
+        <link href="https://github.com/leer-roblox/blog/2022/04/08/start-leer-roblox"/>
+        <updated>2022-04-08T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[leer roblox is gestart. momenteel is er nog niet veel terug te vinden maar we werken voordurend aan de site. Dus kome geregeld is een keertje kijken of er iets vernaderd is.]]></summary>
+        <content type="html"><![CDATA[<p>leer roblox is gestart. momenteel is er nog niet veel terug te vinden maar we werken voordurend aan de site. Dus kome geregeld is een keertje kijken of er iets vernaderd is.</p>]]></content>
+        <author>
+            <name>Yente</name>
+            <email>yente.paternotte@hotmail.com</email>
+        </author>
     </entry>
 </feed>
