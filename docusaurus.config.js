@@ -65,7 +65,7 @@ const config = {
           {
             type: 'doc',
             docId: 'intro',
-            position: 'left',
+            position: 'right',
             label: 'Info',
           },
           {to: '/tutorials', label: 'Tutorials', position: 'left'},

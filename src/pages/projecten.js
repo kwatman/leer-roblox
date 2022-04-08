@@ -22,7 +22,7 @@ export default function Guides() {
     <Layout>
       <header className={clsx('hero hero--primary', styles.heroBanner)}>
         <div className="container"> 
-          <input></input>
+          <h1 className="hero__title">Projecten</h1>
         </div>
       </header>
       <div className="container card-container">
