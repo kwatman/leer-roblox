@@ -1,8 +1,8 @@
 Er valt veel te leren over games maken in roblox. Daarom stellen we hier een lijst samen van concepten en de moeilijkheids graad van deze concepten.
 
-# beginner
+## beginner
 
-## studio
+### studio
 | Concept                        | Projecten | tutorials |
 | ------------------------------ | --------- | --------- |
 | Build tools gebruiken          |           |           |
@@ -16,7 +16,7 @@ Er valt veel te leren over games maken in roblox. Daarom stellen we hier een lij
 | Schermen openen in de view tab |           |           |
 | tools                          |           |           |
 
-## scripten
+### scripten
 | Concept                            | Projecten | tutorials |
 | ---------------------------------- | --------- | --------- |
 | variables                          |           |           |
@@ -28,9 +28,9 @@ Er valt veel te leren over games maken in roblox. Daarom stellen we hier een lij
 | part aanpassen via script          |           |           |
 | Instance.new()                     |           |           |
 | print()                            |           |           |
-# gemiddeld
+## gemiddeld
 
-## scripten
+### scripten
 | Concept        | Projecten | tutorials |
 | -------------- | --------- | --------- |
 | tables         |           |           |
@@ -41,7 +41,7 @@ Er valt veel te leren over games maken in roblox. Daarom stellen we hier een lij
 
 
 
-# geavanceerd
+## geavanceerd
 | Concept                 | Projecten | tutorials |
 | ----------------------- | --------- | --------- |
 | datastores              |           |           |
