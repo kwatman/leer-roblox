@@ -54,6 +54,16 @@ const config = {
         sidebarPath: require.resolve('./sidebars.js'),
         // ... other options
       },
+    ], 
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'coach', // omitted => default instance
+        path: './coach',
+        routeBasePath: '/coach',
+        sidebarPath: require.resolve('./sidebars.js'),
+        // ... other options
+      },
     ],
   ],
   themeConfig:
