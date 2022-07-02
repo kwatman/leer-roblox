@@ -100,6 +100,7 @@ const config = {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
       },
+      metadata : [{name: 'google-site-verification',content:"aM4ZGl8sQB5xydE2VA3uaUGukqpyXgzgLWsn8O3ZUKc"}]
     }),
 };
 
