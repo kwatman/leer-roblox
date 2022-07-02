@@ -3,18 +3,18 @@ Er valt veel te leren over games maken in roblox. Daarom stellen we hier een lij
 ## beginner
 
 ### studio
-| Concept                        | Projecten | tutorials |
-| ------------------------------ | --------- | --------- |
-| Build tools gebruiken          |           |           |
-| Snap to grid                   |           |           |
-| Solid modeling                 |           |           |
-| Part uiterlijk veranderen      |           |           |
-| Spel testen                    |           |           |
-| spawn locaties                 |           |           |
-| de explorer                    |           |           |
-| Navigeren in de viewport       |           |           |
-| Schermen openen in de view tab |           |           |
-| tools                          |           |           |
+| Concept                        | Projecten | tutorials                                                            |
+| ------------------------------ | --------- | -------------------------------------------------------------------- |
+| Build tools gebruiken          |           |                                                                      |
+| Snap to grid                   |           |                                                                      |
+| Solid modeling                 |           |                                                                      |
+| Part uiterlijk veranderen      |           |                                                                      |
+| Spel testen                    |           |                                                                      |
+| spawn locaties                 |           |                                                                      |
+| de explorer                    |           |                                                                      |
+| Navigeren in de viewport       |           | [De viewport](/tutorials/roblox%20studio%20rondleding/de%20viewport) |
+| Schermen openen in de view tab |           |                                                                      |
+| tools                          |           |                                                                      |
 
 ### scripten
 | Concept                            | Projecten | tutorials |

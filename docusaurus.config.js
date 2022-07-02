@@ -16,6 +16,7 @@ const config = {
   organizationName: 'dolfijn3000', // Usually your GitHub org/user name.
   projectName: 'Leer-roblox', // Usually your repo name.
   trailingSlash: false,
+  staticDirectories: ['tutorials'],
   presets: [
     [
       'classic',
