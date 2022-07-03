@@ -72,6 +72,12 @@ const config = {
     ({
       navbar: {
         title: 'Leer roblox',
+        logo: {
+          alt: 'Site Logo',
+          src: 'img/leer-roblox-logo.svg',
+          width: 32,
+          height: 32,
+        },
         items: [
           {
             type: 'doc',
