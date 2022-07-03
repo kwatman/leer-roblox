@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="115.75771mm"
+   height="115.75772mm"
+   viewBox="0 0 115.75771 115.75772"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="leer-roblox-logo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     showborder="false"
+     inkscape:zoom="0.16"
+     inkscape:cx="-871.875"
+     inkscape:cy="-637.5"
+     inkscape:window-width="1482"
+     inkscape:window-height="1030"
+     inkscape:window-x="246"
+     inkscape:window-y="36"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-88.746604,-151.65793)">
+    <path
+       class="st0"
+       d="m 113.26908,151.65793 91.23523,24.42596 -9.84759,36.88029 -54.45151,-14.57834 -2.79984,10.42687 -36.78371,-9.84759 z m 66.71274,115.75772 -91.235216,-24.42592 9.847611,-36.88029 54.354975,14.57833 2.79981,-10.4269 36.88026,9.84762 z"
+       id="path826"
+       style="stroke-width:0.965452"
+       inkscape:export-filename="D:\dev\leer-roblox\static\img\leer-roblox-logo.png"
+       inkscape:export-xdpi="384.32019"
+       inkscape:export-ydpi="384.32019" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:66.5552px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;fill:#ff2a2a;fill-opacity:1;stroke:#000000;stroke-width:0.53042;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="102.07124"
+       y="233.35751"
+       id="text1591"
+       inkscape:export-filename="D:\dev\leer-roblox\static\img\leer-roblox-logo.png"
+       inkscape:export-xdpi="384.32019"
+       inkscape:export-ydpi="384.32019"><tspan
+         sodipodi:role="line"
+         id="tspan1589"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial;fill:#ff2a2a;stroke:#000000;stroke-width:0.53042;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         x="102.07124"
+         y="233.35751">LR</tspan></text>
+  </g>
+  <style
+     type="text/css"
+     id="style824">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#009FFF;}
+</style>
+</svg>
