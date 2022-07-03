@@ -12,11 +12,11 @@ const config = {
   baseUrl: '/leer-roblox/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/leer-roblox-logo.ico',
   organizationName: 'dolfijn3000', // Usually your GitHub org/user name.
   projectName: 'Leer-roblox', // Usually your repo name.
   trailingSlash: false,
-  staticDirectories: ['tutorials'],
+  staticDirectories: ['assets','static'],
   presets: [
     [
       'classic',

@@ -10,4 +10,4 @@ Om te beginnen aan ons avontuur moeten we eerst roblox studio instaleren. Als je
 Roblox studio zal nu opstarten
 
 
-![roblox studio openen](assets/studio-instaleren/studio-openen.png)
+![roblox studio openen](/tutorials/studio-instaleren/studio-openen.png)
