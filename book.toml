@@ -1,0 +1,9 @@
+[book]
+authors = ["kwatman"]
+language = "nl"
+multilingual = false
+src = "src"
+title = "leer-roblox"
+
+[build]
+build-dir = "book"                # the directory where the output is placed
